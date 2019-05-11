@@ -18,42 +18,15 @@ h1{
 #li1{
 	float: left;
 	 }
-#ali1{
+#aLi1{
 	display: block;
     color: white;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
 }
-#ali1:hover{
+#aLi1:hover{
 	background-color: #111;
 }
 
-#ul2{
-	list-style-type: none;
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
-    background-color:#2980b9;
-    margin-left: -10px;
-    margin-right: -10px;
-}
-#li2{
-	float: left;
-}
-#aLi2{
-	display: block;
-	color: #1abc9c;
-	text-align: center;
-	padding: 14px 16px;
-	text-decoration: none;
-}
-#aLi2:hover{
-	background-color: #1abc9c;
-}
-label {
-    display:block;
-    width:150px;
-    float:left;
-    }
     
